@@ -4,32 +4,91 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-1" value="Key features" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="250" height="270" as="geometry" />
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-1" value="Key features" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="310" width="250" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-2" value="User Managment" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-2" value="User Managment" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-3" value="property listing managment" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-3" value="property listing managment" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-4" value="Search and filtering" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-4" value="Search and filtering" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-13" value="Booking management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-13" value="Booking management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="120" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-14" value="Payment Ingeration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-14" value="Payment Ingeration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="150" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-20" value="Admin Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-20" value="Admin Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="180" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-21" value="Notifications system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-21" value="Notifications system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="210" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-19" value="Review and Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w7IyEovhkUPnsM_P6XW_-1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-19" value="Review and Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="240" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="28222j_2KdiVJBQHHPrt-20" value="User Registration" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1490" width="200" height="190" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Allow users to sign up as&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;guests&lt;/strong&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;or&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;hosts&lt;/strong&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-22">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-20">
+            <mxGeometry y="40" width="200" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;secure authentication methods like&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;JWT&lt;/strong&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-23">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-20">
+            <mxGeometry y="110" width="200" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="28222j_2KdiVJBQHHPrt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7IyEovhkUPnsM_P6XW_-2" target="28222j_2KdiVJBQHHPrt-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="45" />
+              <mxPoint x="920" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28222j_2KdiVJBQHHPrt-24" value="User Login and Authentication" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1230" width="210" height="190" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Implement login via email and password&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-25">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-24">
+            <mxGeometry y="40" width="210" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Include&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;OAuth&lt;/strong&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;options&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-26">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-24">
+            <mxGeometry y="110" width="210" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="28222j_2KdiVJBQHHPrt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7IyEovhkUPnsM_P6XW_-2" target="28222j_2KdiVJBQHHPrt-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="45" />
+              <mxPoint x="920" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28222j_2KdiVJBQHHPrt-28" value="Profile Management" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="980" width="200" height="150" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Enable users to update their profiles, including profile photos, contact info, and preferences&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-29">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-28">
+            <mxGeometry y="40" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="28222j_2KdiVJBQHHPrt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7IyEovhkUPnsM_P6XW_-2" target="28222j_2KdiVJBQHHPrt-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="45" />
+              <mxPoint x="920" y="95" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
