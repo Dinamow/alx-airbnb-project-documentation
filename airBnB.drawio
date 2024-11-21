@@ -48,13 +48,13 @@
         <mxCell id="w7IyEovhkUPnsM_P6XW_-14" value="Payment Ingeration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="150" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-20" value="Admin Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-19" value="Review and Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="180" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w7IyEovhkUPnsM_P6XW_-21" value="Notifications system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="210" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w7IyEovhkUPnsM_P6XW_-19" value="Review and Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
+        <mxCell id="w7IyEovhkUPnsM_P6XW_-20" value="Admin Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="w7IyEovhkUPnsM_P6XW_-1" vertex="1">
           <mxGeometry y="240" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="28222j_2KdiVJBQHHPrt-20" value="User Registration" style="swimlane;" vertex="1" parent="1">
@@ -229,7 +229,7 @@
             <mxGeometry y="35" width="250" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font face=&quot;aktiv-grotesk, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Cancellations&lt;br&gt;&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-91">
+        <UserObject label="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Cancellations&lt;br&gt;&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-91">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-89">
             <mxGeometry y="105" width="250" height="60" as="geometry" />
           </mxCell>
@@ -244,6 +244,44 @@
             <mxPoint x="180" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="225" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28222j_2KdiVJBQHHPrt-94" value="admin interface for monitoring and managing" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="300" y="710" width="270" height="330" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Users&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-95">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-94">
+            <mxGeometry y="35" width="270" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Listings&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-96">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-94">
+            <mxGeometry y="105" width="270" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Bookings&lt;/span&gt;&lt;/div&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-97">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-94">
+            <mxGeometry y="175" width="270" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Payments&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-100">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-94">
+            <mxGeometry y="250" width="270" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="28222j_2KdiVJBQHHPrt-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="28222j_2KdiVJBQHHPrt-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28222j_2KdiVJBQHHPrt-102" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px;&quot;&gt;Guests can leave reviews and ratings for properties&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px;&quot;&gt;Hosts can respond to reviews&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px;&quot;&gt;Ensure reviews are linked to specific bookings to prevent abuse&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="28222j_2KdiVJBQHHPrt-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7IyEovhkUPnsM_P6XW_-19" target="28222j_2KdiVJBQHHPrt-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
