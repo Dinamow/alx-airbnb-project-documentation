@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="Page-1" id="ewIaQZ2Lpn-U_PnpUQjz">
-    <mxGraphModel dx="2690" dy="2278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3019" dy="2474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,6 +218,32 @@
             <Array as="points">
               <mxPoint x="730" y="165" />
               <mxPoint x="730" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28222j_2KdiVJBQHHPrt-89" value="Implement email and in-app notifications" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="250" height="250" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Booking confirmations&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-90">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-89">
+            <mxGeometry y="35" width="250" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font face=&quot;aktiv-grotesk, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Cancellations&lt;br&gt;&lt;/span&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-91">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-89">
+            <mxGeometry y="105" width="250" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: aktiv-grotesk, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Payment updates&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" treeRoot="1" id="28222j_2KdiVJBQHHPrt-92">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="28222j_2KdiVJBQHHPrt-89">
+            <mxGeometry y="175" width="250" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="28222j_2KdiVJBQHHPrt-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7IyEovhkUPnsM_P6XW_-21" target="28222j_2KdiVJBQHHPrt-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="225" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
