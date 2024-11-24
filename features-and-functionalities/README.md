@@ -1,1 +1,1 @@
-# Backend Blueprint: Feature Foundations
+# features and functionalities of the Airbnb Clone project
